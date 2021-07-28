@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    height: 140vh ; 
+    display: flex;
+}
+
+.lado_izq {
+    background-color: aqua; 
+    width: 50%;
+}
+
+h1{
+    text-align: center ; 
+    font-size: 60px; 
+    color: tomato; 
+    font-family: fantasy;
+}
+
+h3{
+    text-align: center ; 
+    font-size: 25px; 
+    color: violet; 
+    font-family: monospace; 
+    font-weight: bolder;
+}
+
+.contenedor_img{
+    width: 50%; 
+    margin: 0 auto;
+}
+
+.lado_der{
+    background-color: darkseagreen; 
+    width: 50%;
+}
+
+.subtitle{
+    text-align: center ; 
+    font-size: 30px; 
+    color: blue;
+}
+
+a{
+    font-family: monospace; 
+    color: brown ; 
+    font-weight: 600 ; 
+    font-size: 30px ;
+    list-style-type: none;
+}

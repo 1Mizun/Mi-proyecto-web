@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.circle{
+    background-color: turquoise;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.cir{
+    background-color: rgb(32, 75, 139);
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+/*
+Color porcentual 
+*/
+
+.c{
+    background-color: rgb(40%, 30%, 90%);
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.padre{
+    width: 100vw;
+    height: 100vh;
+}
+
+.u{
+    background-color: #395066;
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+}

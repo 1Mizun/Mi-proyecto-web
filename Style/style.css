@@ -37,12 +37,13 @@ h3{
 .lado_der{
     background-color: darkseagreen; 
     width: 50%;
+    list-style-type: none;
+    text-align: left;
+    font-size: 50px;
 }
 
-.subtitle{
-    text-align: center ; 
-    font-size: 30px; 
-    color: blue;
+.lista{
+    list-style-type: none;
 }
 
 a{

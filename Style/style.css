@@ -44,6 +44,11 @@ h3{
 
 .lista{
     list-style-type: none;
+    
+}
+
+a:hover{
+    background-color: blueviolet;
 }
 
 a{
